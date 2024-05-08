@@ -1,4 +1,4 @@
-# Learning_Labs-6-Sentiment-Analysis-using-R/ Natural Language Processing
+# 007-Sentiment-Analysis-using-R/ Natural Language Processing
 ## Sentiment Analysis using R, of the US presidential debate 2016
 
 ### What is Sentiment Analysis?
